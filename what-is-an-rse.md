@@ -53,6 +53,14 @@ The domain developer might sit in a specific department or lab, and work
 exclusively on developing and maintaining software for the domain. Usually input,
 goals, and feedback would come from the group that the developer serves.
 
+### Researcher
+
+A part of being an RSE might include conducting actual research. It could be
+with respect to a domain of science, but it also might be research about
+software engineering, open source development, or general practices of
+conducting research to begin with.
+
+
 ### Generalist Programmer
 
 In stark contrast, a generalist might assist researchers
