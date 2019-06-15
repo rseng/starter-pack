@@ -77,3 +77,5 @@ to wear beyond solely a PI, researcher, or teacher. I want all these things but
 I am not a manager or a group leader. I can't do many things, and perhaps I'll
 never be the best at anything, but I believe that success smells a lot like
 hard work. So I'll do that.
+
+[Back to Stories](stories/README)
