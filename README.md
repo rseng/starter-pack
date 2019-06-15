@@ -8,7 +8,7 @@ to create/hire an RSE community, see [this article](https://rse.ac.uk/resources/
 The starter pack here is presented in sections, where each
 corresponds with a markdown file in this folder.
 
- - [What is an RSE?](what-is-an-rse.md): To make your case, you will need to have a solid understanding of what an RSE is, different subtypes, and where they might be hiding at your institution. You can read brief bios for RSEs in the [stories](stories) folder to support these definitions with actual examples.
- - [1. Communication](): How do you want to interact with your community? You might choose a simple chat, or create a Github organization to collaborate on code. You might even go as far as to have meetings and/or video chat.
- - [2. Branding]() to make your community cohesive and attractive to both potential members and visiors, creating a community portal with strong branding is important.
- - [3. Contact]() Once you've set up a plan for communication, created a community portal, you are ready to find your fellow RSEs!
+ - [What is an RSE?](what-is-an-rse.md): To make your case, you will need to have a solid understanding of what an RSE is, different subtypes, and where they might be hiding at your institution. You can read brief bios for RSEs in the [stories](stories) folder to support these definitions with actual examples. You can also browse the [usrse](https://www.github.com/usrse) community templates to get a sense of what RSEs are working on.
+ - [Create a Community Portal](portal.md): We have a community portal template ready to go, to start you on your journey.
+ - [Find Your RSEs](communication.md): How do you find your community? What do you tell them? After you find them, you might even take extra steps like creating a Github organization to collaborate on code, or having meetings and/or video chat.
+
