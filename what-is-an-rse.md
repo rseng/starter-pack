@@ -97,3 +97,5 @@ author considers herself an open source generalist developer, primarily working
 on existing and developing new open source software for research. For more RSE 
 stories, see the [stories](stories) folder. Please add your story if you are
 an RSE.
+
+Next, read about creating a [plan](plan.md) for your initiative.

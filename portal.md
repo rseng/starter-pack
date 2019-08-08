@@ -8,6 +8,12 @@ a [community template](https://github.com/USRSE/community-template) that could
 easily be populated by an institution. Now, this portal is available to you
 to start growing your community.
 
+## Why a portal?
+
+The portal, in and of itself, isn't going to build community. However, by writing
+content there for your users, creating guides for best practices, and steps to get support,
+the portal helps to establish your group.
+
 ## Setup
 
 The details of setup can be found in [the README](https://github.com/USRSE/community-template)
@@ -33,5 +39,9 @@ or interested RSE visits, they know how to contact you. By default, if you
 add an email address, a contact page is automatically generated
 to send an email using formspree. Other social media links like Twitter
 and GitHub are good to include, also provided with the template.
+
+## Content
+
+Content is the most important part!
 
 Next, read about [communication](communication.md) to find other RSEs at your institution.

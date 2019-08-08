@@ -13,13 +13,26 @@ To make your case, you will need to have a solid understanding of what an RSE is
 
 [Read more](what-is-an-rse.md)
 
+## Write a Proposal
+
+It's helpful to write a short abstract and longer specific aims to summarize the problems and needs you see at your institution, how establishing an RSE group can help, and broadly how you plan to do it. This is primarily
+for you and your team's benefit, but can be helpful to share with others interested in your initiative.
+
+<a href="https://docs.google.com/document/d/17CCeAc-I7GzbUDrSCvYWVPi-k4AyyVhP5oivjgTNNaQ/edit?usp=sharing" target="_blank">Read an example</a>
+
+## Establish a Plan
+
+Once you have a proposal, you need to build a plan around it. An initiative is nothing without a plan for engaging with researchers, and providing support.
+
+[Read more](plan.md)
+
 ## Create a Community Portal
 
 We have a community portal template ready to go, to start you on your journey.
 
 [Read more](portal.md)
 
-## Find Your RSEs:
+## Find Your RSEs
 
 How do you find your community? What do you tell them? After you find them, you might even take extra steps like creating a Github organization to collaborate on code, or having meetings and/or video chat.
 
