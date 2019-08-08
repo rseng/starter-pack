@@ -1,5 +1,11 @@
 # Community Portal
 
+The portal is the central location for all of the content that you came up
+with in your [plan](plan.md). The guide here will provide steps and a template
+to make this easy for you!
+
+## A Little Background
+
 When us-rse first started, it had created a [Slack channel](https://usrse.slack.com) 
 along with a [GitHub organization](https://www.github.com/usrse) to serve 
 the [main website](https://us-rse.org). As a new RSE in the community
@@ -42,6 +48,7 @@ and GitHub are good to include, also provided with the template.
 
 ## Content
 
-Content is the most important part!
+Content is the most important part! It should include most of what you
+decided in your [plan](plan.md).
 
 Next, read about [communication](communication.md) to find other RSEs at your institution.

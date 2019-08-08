@@ -38,18 +38,18 @@ The following describes the typical interaction that we will pursue between rese
 
 The service portal at https://stanford-rc.github.io/rse-services should have:
 
- - a complete summary of general services [[completed](https://stanford-rc.github.io/rse-services/docs/services/)]
- - Interactive tool to select services [[completed](https://stanford-rc.github.io/rse-services/docs/tools/services-explorer/)]
- - A protocol for interaction (consult, statement of work, agreement). [[completed](https://stanford-rc.github.io/rse-services/docs/getting-started#how-does-it-work)]
- - A "blueprint" graphic that lays out the steps for interaction [[completed](https://stanford-rc.github.io/rse-services/docs/getting-started#5-completion)]
- - A tool for a researcher to evaluate the reproducibility of their software [[complete](https://stanford-rc.github.io/rse-services/docs/tools/software-checklist/)]
+ - a complete summary of general services [[example](https://stanford-rc.github.io/rse-services/docs/services/)]
+ - Interactive tool to select services [[example](https://stanford-rc.github.io/rse-services/docs/tools/services-explorer/)]
+ - A protocol for interaction (consult, statement of work, agreement). [[example](https://stanford-rc.github.io/rse-services/docs/getting-started#how-does-it-work)]
+ - A "blueprint" graphic that lays out the steps for interaction [[example](https://stanford-rc.github.io/rse-services/docs/getting-started#5-completion)]
+ - A tool for a researcher to evaluate the reproducibility of their software [[example](https://stanford-rc.github.io/rse-services/docs/tools/software-checklist/)]
 
 
 > You can tell that along with providing content, I tried to make it a little fun! The software checklist is a badge generator, and the interactive tools and graphics make the portal more interesting. Along with listing services and these tools, I also wound up adding simple guides for [best practices](https://stanford-rc.github.io/rse-services/docs/guides/best-practices/).
 
 ### Community Interaction
 
-> You need to establish clear steps for how you plan to interact with your community. The following are examples of such stps..
+> You need to establish clear steps for how you plan to interact with your community. The following are examples of such steps:
 
 #### Call for Proposals
 
