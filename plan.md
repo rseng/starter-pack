@@ -89,12 +89,13 @@ to access the sustainability of their software.
 
 Once relationships are established, you likely will fall naturally into conversation about longer term
 hiring of RSEs to provide support for particular departments. It might be the case that the institution
-can provide half the salary of an RSE, and the department the other. Suggested steps from [@cosden](https://www.github.com/cosden) include:
+can partner with individual departments to split the salary of an RSE or group of RSEs. In this case, in order to help find a good
+match and ensure the best use of institutional funds, suggested steps from [@cosden](https://www.github.com/cosden) include:
 
- - Finding partners via a letter of interest
+ - Finding potential department partners via a letter of interest
  - Meeting with them and our group
  - 2-3 page proposal (or similar)
- - Review by some committee
+ - Review by some external institutional committee
 
 
 ### Promotion
