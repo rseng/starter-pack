@@ -30,5 +30,5 @@ section.cover .cover-main>p:last-child a {
 }
 </style>
 
-[GitHub](https://github.com/usrse/community-template)
+[GitHub](https://github.com/rseng/)
 [Get Started](#rse-community-starter-pack)

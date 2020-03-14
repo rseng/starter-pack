@@ -6,13 +6,14 @@ to make this easy for you!
 
 ## A Little Background
 
-When us-rse first started, it had created a [Slack channel](https://usrse.slack.com) 
+When the us-rse first started, it had created a [Slack channel](https://usrse.slack.com) 
 along with a [GitHub organization](https://www.github.com/usrse) to serve 
 the [main website](https://us-rse.org). As a new RSE in the community
 with an institution that I (@vsoch) wanted to bring in, I decided to create
-a [community template](https://github.com/USRSE/community-template) that could
-easily be populated by an institution. Now, this portal is available to you
-to start growing your community.
+a [community template](https://github.com/rseng/community-template) that could
+easily be populated by an institution. Since USRSE on GitHub does not support
+general open source projects, these repos now live with the [rseng](https://github.com/rseng) 
+organization. Now, this portal is available to you to start growing your community.
 
 ## Why a portal?
 
@@ -22,20 +23,20 @@ the portal helps to establish your group.
 
 ## Setup
 
-The details of setup can be found in [the README](https://github.com/USRSE/community-template)
+The details of setup can be found in [the README](https://github.com/rseng/community-template)
 of the respository, and the overall steps are outlined here:
 
  1. Each interested member of your group can add a personal page that is indexed for search.
  2. If your group has a Twitter feed, it can be added to the site's main page.
  3. You can write an "About" page, and a "Support" page that describes what you offer (also indexed).
- 4. If you choose, you can write posts that will appear in the site's feed. You can also add this feed to the main [us-rse blog](https://us-rse.org/blog)
+ 4. If you choose, you can write posts that will appear in the site's feed.
 
 
 ## Branding
 
-By default, the portal is branded to match the main us-rse page. By way of
-starting with "community-" it will automatically discovered via the blog.
-However, if you want to take extra steps to tweak the theme of the template,
+By default, the portal is branded to match a simple rseng pages design by @vsoch
+that is used for [rse-stories](https://github.com/USRSE/rse-stories).
+If you want to take extra steps to tweak the theme of the template,
 this would strengthen the branding for your particular institution.
 
 ## Contact

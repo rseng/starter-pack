@@ -9,7 +9,7 @@ The starter pack here is presented in sections, where each
 corresponds with a markdown file in this folder.
 
 ## What is an RSE?
-To make your case, you will need to have a solid understanding of what an RSE is, different subtypes, and where they might be hiding at your institution. You can read brief bios for RSEs in the [stories](stories/README.md) folder to support these definitions with actual examples. You can also browse the [usrse](https://www.github.com/usrse) community templates to get a sense of what RSEs are working on.
+To make your case, you will need to have a solid understanding of what an RSE is, different subtypes, and where they might be hiding at your institution. You can read brief bios for RSEs in the [stories](stories/README.md) folder to support these definitions with actual examples. You can also browse the [rseng](https://www.github.com/rseng) community templates to get a sense of what RSEs are working on.
 
 [Read more](what-is-an-rse.md)
 
