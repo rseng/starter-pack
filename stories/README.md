@@ -5,6 +5,6 @@ RSEs, managers, and anyone with a story to contribute their thoughts here.
 
 ## Stanford University
 
- - [vsoch](stories/vsoch.md) Research Software Engineer at Stanford University
+ - [vsoch](vsoch.md) Research Software Engineer at Stanford University
 
 [Back to Home](README.md)
